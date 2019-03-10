@@ -1,2 +1,2 @@
 # Memefier
-Replaces all the images on a webpage to Memes on the click of a button
+Replaces all the images on a webpage with Memes on the click of a button
