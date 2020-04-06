@@ -1,6 +1,6 @@
 # Memefier
 
-> A Chrome Extension which Replaces all the images on a webpage with Memes on the click of a button
+A Chrome Extension which Replaces all the images on a webpage with Memes on the click of a button. Just wanted to try making a chrome extension for once.
 
 ## Setup
 
